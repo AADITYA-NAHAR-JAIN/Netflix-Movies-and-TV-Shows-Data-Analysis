@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Project
+# 🎬 Netflix Movies and TV Shows Data Analysis
 
 A comprehensive Exploratory Data Analysis (EDA) on Netflix's content catalog — uncovering insights into popular shows, top actors, genre trends, revenue patterns, and more through data cleaning, feature engineering, and rich visualizations.
 
